@@ -1,0 +1,3 @@
+add_executable(1_1_basic_template 1_1_basic_template.cpp)
+add_executable(1_2_type_deduction 1_2_type_deduction.cpp)
+add_executable(1_3_return_type 1_3_return_type.cpp)
